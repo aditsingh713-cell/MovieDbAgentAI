@@ -16,6 +16,7 @@ Step 1: Create the Project & Install Dependencies Open your terminal or Package 
 
 Step 2: Define the Movie Model & Database Service
 Create a file named MovieDbService.cs to handle safe, parameterized queries to your local SQL Server.
+
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using Microsoft.Data.SqlClient;
